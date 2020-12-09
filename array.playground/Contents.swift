@@ -9,4 +9,4 @@ func sortArray(_ array: [Int]) -> [Int] {
 }
 
 sortArray(unsortedArray)
-print(sortArray(unsortedArray))
+print(sortArray(unsortedArray) + sortArray(unsortedArray))
